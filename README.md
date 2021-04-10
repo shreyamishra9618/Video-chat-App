@@ -1,6 +1,17 @@
-# edits
+# Video chat app
 
-A new Flutter project.
+A flutter video conferencing and chat app. 
+Firebase is being used as a backened server for chat and Agora SDK is used for video conferencing.
+Sign up and Sign In feature is fully implemented using firebase auth.
+
+# Previews
+|   |   |   |
+| ------------- | ------------- | --------------- |
+|<img src="https://github.com/suyash-debug/Flutter-Video-Conferencing-and-Chat-app-using-firebase-/blob/master/ss/WhatsApp%20Image%202021-04-07%20at%204.19.39%20PM%20(4).jpeg" width="300" height="540"> | <img src="https://github.com/suyash-debug/Flutter-Video-Conferencing-and-Chat-app-using-firebase-/blob/master/ss/WhatsApp%20Image%202021-04-07%20at%204.19.39%20PM%20(5).jpeg" width="300" height="540"> | <img src="https://github.com/suyash-debug/Flutter-Video-Conferencing-and-Chat-app-using-firebase-/blob/master/ss/WhatsApp%20Image%202021-04-07%20at%204.19.39%20PM%20(2).jpeg" width="300" height="540">|
+
+|   |   |   |
+| ------------- | ------------- | --------------- |
+| <img src="https://github.com/suyash-debug/Flutter-Video-Conferencing-and-Chat-app-using-firebase-/blob/master/ss/WhatsApp%20Image%202021-04-07%20at%204.19.39%20PM%20(1).jpeg" width="300" height="540"> | <img src="https://github.com/suyash-debug/Flutter-Video-Conferencing-and-Chat-app-using-firebase-/blob/master/ss/WhatsApp%20Image%202021-04-07%20at%204.19.39%20PM%20(3).jpeg" width="300" height="540"> | <img src="https://github.com/suyash-debug/Flutter-Video-Conferencing-and-Chat-app-using-firebase-/blob/master/ss/WhatsApp%20Image%202021-04-07%20at%204.19.39%20PM.jpeg" width="300" height="540">|
 
 ## Getting Started
 
